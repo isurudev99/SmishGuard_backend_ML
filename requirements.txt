@@ -1,0 +1,33 @@
+fastapi
+pydantic
+tensorflow>=2.12.0
+IPython
+transformers
+pandas
+tld
+requests
+nltk
+beautifulsoup4
+db-sqlite3
+uvicorn
+xgboost==1.7.3
+scikit-learn==1.2.2
+
+selenium
+chromedriver-binary
+
+# fastapi
+# pydantic
+# tensorflow  # Update the TensorFlow version to one of the available versions.
+# numpy
+# IPython
+# transformers
+# pandas
+# tld
+# requests
+# nltk
+# beautifulsoup4
+# pysqlite3
+# uvicorn
+# gunicorn
+# xgboost
